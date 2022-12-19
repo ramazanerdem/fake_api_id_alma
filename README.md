@@ -1,6 +1,6 @@
-# Deneme
+# API den veri çekme
 
-## Alt bilgi
+## ID üzerinden veri çekme
 
 kullanıcı verileri:
 [kullanıcılar](https://jsonplaceholder.typicode.com/users)
